@@ -7,7 +7,7 @@ el cual dicho caso se encuentra en el [Repositoro](https://github.com/LaunchX-In
 
 -   [Buyer Persona](./BuyerPersona.pdf)
 
--   [Públic Objetivo](./PúblicoObjetivo.pdf)
+-   [Público Objetivo](./PúblicoObjetivo.pdf)
 
 -   [Wireframes](https://xd.adobe.com/view/4b174e4f-bc27-426f-9c82-5e380dbe6f9e-1e44/grid/)
 
